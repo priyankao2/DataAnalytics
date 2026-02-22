@@ -1,10 +1,3 @@
-# 📊 Data Analyst Projects Portfolio
-
-**Priyanka Gupta**\
-B.Tech Information Technology \| Data Analyst Aspirant
-
-------------------------------------------------------------------------
-
 # 🔹 Project 1: Attendance Data Analysis System (Excel)
 
 ## 📌 Project Overview
